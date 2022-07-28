@@ -113,7 +113,7 @@ li.menu-item a {
 
 /* Agrego estilos para el .menu-item.active */
 li.menu-item a:hover,
-li.menu-item.active li {
+li.menu-item.active{
     background: rgba(175, 89, 158, 0.3);
     transition: background-color 0.3s;
 }
